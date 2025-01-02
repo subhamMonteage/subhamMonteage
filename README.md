@@ -1,12 +1,7 @@
--  Hi, I’m @subhamMonteage
-- I’m interested to develop or better than yesterday
--  I’m currently learning flutter
--  I’m looking to collaborate on ...
-- How to reach me subhamsharma5961@gmail.com
--  Pronouns: ...
-- Fun fact: ...
+👨‍💻 I'm a passionate developer constantly striving to be better than yesterday.
 
-<!---
-subhamMonteage/subhamMonteage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 Currently diving deep into Flutter development and building cross-platform apps.
+
+🤝 Looking to collaborate on impactful projects that challenge and inspire.
+
+🛠 With 2.5 years of experience, I bring practical knowledge and a growth mindset to every project.
